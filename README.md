@@ -1,5 +1,7 @@
 WeiXinGroupSend是使用Android UiAutomator实现微信的群发功能
 
+
+
 一、使用步骤：
 
 a. 准备工作：
@@ -17,6 +19,7 @@ b. 执行脚本：
 --进入到WeiXinGroupSend目录
 
 --运行python run.py(如果没有安装python也没关系，在cmd中依次执行run.py中的四条语句)
+
 
 
 二、执行效果：

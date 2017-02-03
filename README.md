@@ -1,6 +1,7 @@
 WeiXinGroupSend是使用Android UiAutomator实现微信的群发功能
 
 使用步骤：
+
 1. 准备工作
 
 --安装并配置Utf7Ime.apk(apk目录)，配置链接https://github.com/sumio/uiautomator-unicode-input-helper

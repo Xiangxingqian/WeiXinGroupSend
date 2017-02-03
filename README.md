@@ -2,7 +2,7 @@ WeiXinGroupSend是使用Android UiAutomator实现微信的群发功能
 
 使用步骤：
 
-1. 准备工作
+一、准备工作：
 
 --安装并配置Utf7Ime.apk(apk目录)，配置链接https://github.com/sumio/uiautomator-unicode-input-helper
 
@@ -12,7 +12,7 @@ Utf7Ime.apk什么作用？
 
 Utf7Ime.apk解决了UiAutomator无法输入中文的问题。
 
-2. 执行脚本
+二、执行脚本：
 
 --进入到WeiXinGroupSend目录
 
